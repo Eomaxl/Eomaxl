@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">Full Stack Software Engineer @ Cisco | Ex-DBS | Java, React, Microservices, System Design | Fintech Enthusiast .</h3>
-<p>I am a full stack engineer with expertise in building component-based web applications and scalable backend services in microservice architecture having an experience over 9 years. Over the years with my industrial work journey, I have developed an interest in Fintech and financial services, where I have served financial institutes like UBS Group AG, American Express, Moody's, and DBS Bank. Due to this, I was able to work in domains like Risk Management, IB Core, Payment Operations, Transaction Banking, and Middle Office Technologies.</p>
+<h3 align="center">Full Stack Engineer @ Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
+<p>I am a full stack engineer with expert in building web applications and scalable backend services in microservice architecture. I have an overall industrial experince of 10 years. Over the years I have built web pages in form of component using Vanilla JS, Angular and React JS; and backend services using Java 8, Java 11 , Java 17, Springboot and Kotlin. 
+Using the above technologies, I was able to build complete a dashboard application for a telecom company , notification system, payment gateway system, middle office applications for Risk Management , digital wallets, email notification services and unified payment interface. All this project, exposed me to learning technologies such as Node.JS, Apache Kafka, Elastic Search, gRPC,graphQL and exposed me to work on databases such as MySQL, DynamoDB, MongoDB, PostgreSQL, Redis and RocksDB.
+Along with this, I have gained experience is building CI/CD pipeline in AWS, creating dockers and kuberentes in AWS ECS and EKS.</p>
 <br>
-<p>Designing Systems is my passion and building applications is my forte. I love to share my experience via mentoring and writing articles on 'Medium'. I also find ways to contribute to technical society in whatever form I can. Few of my latest articles which i have written on payment gateway were:</p>
+<p>Apart from my professional work, designing Systems is my passion and building applications is my forte. I love to share my experience via mentoring and writing articles on 'Medium'. I also find ways to contribute to technical society in whatever form I can. Few of my latest articles which i have written on payment gateway were:</p>
 <br>
 <p>https://souravsnigdha.medium.com/designing-a-payment-system-part-1-6b53732d7e03</p>
 <p>https://souravsnigdha.medium.com/designing-a-payment-system-part-2-aa3e16aec1c3</p>
