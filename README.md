@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">Full Stack Software Engineer @ Cisco | Ex-DBS | Java, React, Microservices, System Design | Fintech Enthusiast .</h3>
+<h1>I am a full stack engineer with expertise in building component-based web applications and scalable backend services in microservice architecture having an experience over 9 years. Over the years with my industrial work journey, I have developed an interest in Fintech and financial services, where I have served financial institutes like UBS Group AG, American Express, Moody's, and DBS Bank. Due to this, I was able to work in domains like Risk Management, IB Core, Payment Operations, Transaction Banking, and Middle Office Technologies.</h1>
+<br>
+<h1>Designing Systems is my passion and building applications is my forte. I love to share my experience via mentoring and writing articles on 'Medium'. I also find ways to contribute to technical society in whatever form I can. Few of my latest articles which i have written on payment gateway were:</h1>
+<br>
+<p>https://souravsnigdha.medium.com/designing-a-payment-system-part-1-6b53732d7e03</p>
+<p>https://souravsnigdha.medium.com/designing-a-payment-system-part-2-aa3e16aec1c3</p>
+<p>https://souravsnigdha.medium.com/designing-a-payment-system-final-part-3266a9594418</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eomaxl&label=Profile%20views&color=0e75b6&style=flat" alt="eomaxl" /> </p>
 
