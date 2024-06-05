@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
 <h3 align="center">Full Stack Engineer @ Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
-<p>I am a full stack engineer with expert in building web applications and scalable backend services in microservice architecture. I have an overall industrial experince of 10 years. Over the years I have built web pages in form of component using Vanilla JS, Angular and React JS; and backend services using Java 8, Java 11 , Java 17, Springboot and Kotlin. 
+<p>A full stack engineer with expert in building web applications and scalable backend services in microservice architecture with an overall industrial experince of 10 years.
+Over the years I have built web pages in form of component using Vanilla JS, Angular and React JS; and backend services using Java 8, Java 11 , Java 17, Springboot and Kotlin. 
 Using the above technologies, I was able to build complete a dashboard application for a telecom company , notification system, payment gateway system, middle office applications for Risk Management , digital wallets, email notification services and unified payment interface. All this project, exposed me to learning technologies such as Node.JS, Apache Kafka, Elastic Search, gRPC,graphQL and exposed me to work on databases such as MySQL, DynamoDB, MongoDB, PostgreSQL, Redis and RocksDB.
 Along with this, I have gained experience is building CI/CD pipeline in AWS, creating dockers and kuberentes in AWS ECS and EKS.</p>
 <br>
