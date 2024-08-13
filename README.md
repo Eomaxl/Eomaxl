@@ -5,21 +5,17 @@
 Technologies I use for creating web components are 
 <ul>
   <li>Vanilla JS</li>
-  <li>Angular</li>
   <li>React JS</li>
 </ul>
-Backend languages and framework I am aware of are 
+Backend languages and frameworks I am aware of are 
 <ul>
   <li>Java (8, 11 , 17)</li>
   <li>Springboot</li>
   <li>Kotlin</li>
-  <li>php</li>
-  <li>symfony 6</li>
   <li>Golang</li>
   <li>Rust</li>
-  <li>Actix</li>
 </ul>
- 10 years of industrial experience and curosity of mine have exposed me to the below technologies
+ 10 years of industrial experience and curiosity of mine have exposed me to the below technologies
 <ul>
   <li>Node.JS</li>
   <li>Apache Kafka</li>
@@ -27,7 +23,7 @@ Backend languages and framework I am aware of are
   <li>gRPC</li>
   <li>graphQL</li>
 </ul>
-Databases that I have worked over the years.
+Databases that I have worked on over the years.
 <ul>
   <li>MySQL</li>
   <li>DynamoDB</li>
