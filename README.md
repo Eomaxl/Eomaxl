@@ -1,38 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">Full Stack Engineer @ Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
-<p>A full stack engineer with expert in building web applications and scalable backend services in microservice architecture with an industrial experince of 10 years.
+<h3 align="center">Senior Software Engineer  | Ex-Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
+<p>A senior software engineer with expertise in building web applications and microservices in an event-driven architecture with an industrial experience of 10 years.
 <br>
-Technologies I use for creating web components are 
-<ul>
-  <li>Vanilla JS</li>
-  <li>React JS</li>
-</ul>
-Backend languages and frameworks I am aware of are 
-<ul>
-  <li>Java (8, 11 , 17)</li>
-  <li>Springboot</li>
-  <li>Kotlin</li>
-  <li>Golang</li>
-  <li>Rust</li>
-</ul>
- 10 years of industrial experience and curiosity of mine have exposed me to the below technologies
-<ul>
-  <li>Node.JS</li>
-  <li>Apache Kafka</li>
-  <li>Elastic Search</li>
-  <li>gRPC</li>
-  <li>graphQL</li>
-</ul>
-Databases that I have worked on over the years.
-<ul>
-  <li>MySQL</li>
-  <li>DynamoDB</li>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-  <li>Redis</li>
-  <li>RocksDB.</li>
-</ul>
-Along with this, I have gained experience is building CI/CD pipeline in AWS, creating dockers and kuberentes in AWS ECS and EKS.</p>
+Technologies I use for creating web components are [Vanilla JS, React JS] <br>
+Backend languages that I love working with are [Java (8/11/17), Kotlin, Golang, Rust] <br>
+
+Databases that I have worked on over the years are [MySQL, DynamoDB, MongoDB, PostgreSQL, Redis, RocksDB] <br>
+Along with this, I have gained experience in building CI/CD pipelines in AWS, creating dockers and Kubernetes in AWS ECS and EKS.</p>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eomaxl&label=Profile%20views&color=0e75b6&style=flat" alt="eomaxl" /> </p>
