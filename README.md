@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer  | Ex-Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
 <p>A senior software engineer with expertise in building web applications and microservices in an event-driven architecture with an industrial experience of 10 years.
 <br>
-Technologies I use for creating web components are [ Vanilla JS , React JS ] <be><be>
+Technologies I use for creating web components are [ Vanilla JS , React JS ] <br><br>
 Backend languages that I love working with are <b>[ Java (8/11/17) , Kotlin, Golang, Rust ] </b> <br>
 
 Databases that I have worked on over the years are [MySQL, DynamoDB, MongoDB, PostgreSQL, Redis, RocksDB] <br>
