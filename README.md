@@ -15,7 +15,7 @@ Along with this, I have gained experience in building CI/CD pipelines in AWS, cr
 
 - 📝 I regularly write articles on [https://souravsnigdha.medium.com/](https://souravsnigdha.medium.com/)
 
-- 💬 Ask me about **Java,SpringBoot,Microservices, VanillaJS, React, Payment Gateway, Email Notification Service**
+- 💬 Ask me about **Java, Kotlin, Rust, Web Development, SpringBoot, Microservices, VanillaJS, React, System Designs, Event-Driven System and Distributed Systems**
 
 - 📫 How to reach me **sourav.mansingh4@gmail.com**
 <!--
