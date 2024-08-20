@@ -7,11 +7,11 @@ Backend languages that I love working with are <b>[ Java (8/11/17) , Kotlin, Gol
 
 Databases that I have worked on over the years are [MySQL, DynamoDB, MongoDB, PostgreSQL, Redis, RocksDB] <br>
 Along with this, I have gained experience in building CI/CD pipelines in AWS, creating dockers and Kubernetes in AWS ECS and EKS.</p>
-<br>
-
+<be>
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eomaxl&label=Profile%20views&color=0e75b6&style=flat" alt="eomaxl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eomaxl" alt="eomaxl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eomaxl" alt="eomaxl" /></a> </p> -->
 
 - 📝 I regularly write articles on [https://souravsnigdha.medium.com/](https://souravsnigdha.medium.com/)
 
