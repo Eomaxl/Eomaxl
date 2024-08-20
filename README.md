@@ -29,8 +29,8 @@ Along with this, I have gained experience in building CI/CD pipelines in AWS, cr
 <a href="https://www.leetcode.com/eomaxl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eomaxl" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eomaxl&show_icons=true&locale=en&layout=compact" alt="eomaxl" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eomaxl&show_icons=true&locale=en&layout=compact" alt="eomaxl" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eomaxl&show_icons=true&locale=en" alt="eomaxl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eomaxl&show_icons=true&locale=en" alt="eomaxl" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eomaxl&" alt="eomaxl" /></p> -->
