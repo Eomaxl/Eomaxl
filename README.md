@@ -33,4 +33,4 @@ Along with this, I have gained experience in building CI/CD pipelines in AWS, cr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eomaxl&show_icons=true&locale=en" alt="eomaxl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eomaxl&" alt="eomaxl" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eomaxl&" alt="eomaxl" /></p> -->
