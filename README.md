@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">Senior Software Engineer  | Ex-Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
+<h3 align="center">Senior Application Engineer @ Confluent | Ex-Cisco | Ex-DBS | Java, React, Microservices | Fintech Enthusiast .</h3>
 <p>A senior software engineer with expertise in building web applications and microservices in an event-driven architecture with an industrial experience of 10 years.
 <br>
 Technologies I use for creating web components are [ Vanilla JS , React JS ] <br><br>
