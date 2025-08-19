@@ -17,7 +17,7 @@ Along with this, I have gained experience in building CI/CD pipelines in AWS, cr
 
 - 💬 Ask me about **Java, Kotlin, Rust, Web Development, SpringBoot, Microservices, VanillaJS, React, System Designs, Event-Driven System and Distributed Systems**
 
-- 📫 How to reach me **sourav.mansingh4@gmail.com**
+- 📫 How to reach me **sourav.mansingh2@gmail.com**
 <!--
 - 📄 Know about my experiences [https://shorturl.at/ejr36](https://shorturl.at/ejr36)
 
