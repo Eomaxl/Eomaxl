@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">Senior Software Engineer | Ex-Confluent , Cisco , DBS | Java, React, Microservices | Distributed Systems .</h3>
-<p>A senior software engineer with expertise in building web applications and backend microservices in an distributed system architecture with an industrial experience of 11 years.
+<h3 align="center">Senior Software Engineer | Ex-Confluent , Cisco , DBS | Java, Microservices, Distributed Systems .</h3>
+<p>Senior/Staff-level backend engineer with 11+ years building cloud-native, low-latency services on AWS/GCP.
+Expert in Java 17/21, Kotlin, Spring Boot, Kafka, Kubernetes, and Elasticsearch/NoSQL. Led high-throughput
+eventing, recommendation/search systems, and resilient APIs using TDD, CI/CD, and DevSecOps. Known for
+measurable performance wins, clear ownership, and mentoring teams towards best practices.</p>
 <br>
-Technologies I use for creating web components are [ Vanilla JS , React JS ] <br><br>
-Backend languages that I love working with are <b>[ Java (8/11/17) , Kotlin, Golang, Rust ] </b> <br>
 
-Databases that I have worked on over the years are [MySQL, DynamoDB, MongoDB, PostgreSQL, Redis, RocksDB] <br>
-Along with this, I have gained experience in building CI/CD pipelines in AWS, creating dockers and Kubernetes in AWS ECS and EKS.</p>
 <be>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eomaxl&label=Profile%20views&color=0e75b6&style=flat" alt="eomaxl" /> </p>
@@ -15,7 +14,7 @@ Along with this, I have gained experience in building CI/CD pipelines in AWS, cr
 
 - 📝 I regularly write articles on [https://souravsnigdha.medium.com/](https://souravsnigdha.medium.com/)
 
-- 💬 Ask me about **Java, Kotlin, Rust, Web Development, SpringBoot, Microservices, VanillaJS, React, System Designs, Event-Driven System and Distributed Systems**
+- 💬 Ask me about **Java, Web Development, SpringBoot, Microservices, React, System Designs, Event-Driven System and Distributed Systems**
 
 - 📫 How to reach me **sourav.mansingh2@gmail.com**
 <!--
