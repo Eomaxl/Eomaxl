@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sourav Snigdha Mansingh</h1>
-<h3 align="center">Senior Software Engineer | Ex-Confluent , Cisco , DBS | Java, Microservices, Distributed Systems .</h3>
-<p>Senior/Staff-level backend engineer with 11+ years building cloud-native, low-latency services on AWS/GCP.
-Expert in Java 17/21, Kotlin, Spring Boot, Kafka, Kubernetes, and Elasticsearch/NoSQL. Led high-throughput
-eventing, recommendation/search systems, and resilient APIs using TDD, CI/CD, and DevSecOps. Known for
-measurable performance wins, clear ownership, and mentoring teams towards best practices.</p>
+<h3 align="center">Senior Software Engineer | Ex- Confluent,Cisco,DBS | Golang, Java, Python, Distributed Systems .</h3>
+<p>Staff Software Engineer with deep expertise in designing and scaling production-grade distributed systems using Golang and Java. Proven track record of building high-impact applications and platforms in fast-paced, startup-style environments, with a strong sense of ownership and responsibility for shipping features to production. 
+
+Experienced in developing systems that process 1M+ transactions per day with sub-10ms latency and 99.99% availability, as well as real-time event platforms supporting 2M+ daily active users and 300K messages per second. Extensive hands-on experience with Apache Cassandra, PostgreSQL, Redis, and Kafka, leveraging event-driven architectures, strong consistency models, and concurrency control to achieve 10× throughput improvements and 35% infrastructure cost reduction. 
+
+Highly skilled in end-to-end system design, observability-driven optimization, and building secure, compliant (SOC2, GDPR) platforms with a strong focus on correctness, scalability, and operational excellence.</p>
 <br>
 
 <be>
