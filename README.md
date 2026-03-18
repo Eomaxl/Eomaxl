@@ -1,7 +1,7 @@
 # Sourav Snigdha Mansingh
 
 ### Senior Backend Engineer & Technical Lead
-**Java · Spring Boot · Apache Kafka · Distributed Systems · Python · AI/RAG**
+**Golang · Gin · Java · Spring Boot · Apache Kafka · Distributed Systems · Python · AI/RAG**
 **Ex-Confluent · Cisco · DBS Bank | 11 Years | Bengaluru, India**
 
 ---
@@ -32,7 +32,7 @@ at product-driven companies.
 
 | Layer | Technologies |
 |---|---|
-| **Languages** | Java 21 (primary), Python 3.x, Go |
+| **Languages** | Go , Java 21 , Python 3.x|
 | **Frameworks** | Spring Boot 3.2, Spring WebFlux, Spring Cloud, FastAPI |
 | **Messaging** | Apache Kafka, Apache Flink, Chronicle Queue |
 | **Databases** | PostgreSQL, MongoDB, Redis, Cassandra, RocksDB |
