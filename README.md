@@ -1,117 +1,104 @@
 # Sourav Snigdha Mansingh
 
-### Senior Backend Engineer & Technical Lead
-**Golang · Gin · Java · Spring Boot · Apache Kafka · Distributed Systems · Python · AI/RAG**
-**Ex-Confluent · Cisco · DBS Bank | 11 Years | Bengaluru, India**
+**Staff Software Engineer — payments, fraud and risk systems**
+Go · Java · Python · Kafka · Distributed systems · Applied ML
 
 ---
 
-## About Me
+## What I work on
 
-I'm a Senior Backend Engineer and Technical Lead with 11 years of experience
-building high-throughput, production-grade distributed systems. I specialise in
-Java and Python backend development — from domain modelling and API design to
-event-driven data pipelines and AI-powered features.
+I build the systems that move money — and lately, the ML that
+decides whether the money should move at all.
 
-Most recently at **Confluent**, I led the architecture and delivery of a
-real-time Sales Intelligence SaaS platform — **0→MVP in 4 months** with a
-team of 4 engineers, making all technology decisions across Kafka, Flink,
-PostgreSQL, and Redis. The platform drove a **180% GTM improvement**, **63%
-faster client onboarding**, and **38% better client retention**.
+Eleven years across the length of a bank: KYC and customer
+onboarding, real-time payment initiation and settlement, ACH and
+card scheme processing, credit risk and loan origination. Currently
+at Q2, building AI-driven fraud and anomaly detection across ACH
+payment, batch and collection flows — catching suspicious activity
+before settlement, not in next-day reconciliation.
 
-I'm currently open to **Senior Backend Engineer** and **Staff Engineer** roles
-at product-driven companies.
+Before that: Confluent (led a real-time intelligence platform from
+zero to MVP in five months), Cisco, DBS Bank, American Express
+transaction processing, and a Swiss retail bank.
+
+Open to Staff / Senior Backend roles. Currently exploring
+opportunities in the UK.
 
 📩 sourav.mansingh5@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sourav-snigdha-mansingh/)
+🌐 [souravmansingh.com](https://www.souravmansingh.com/)
 ✍️ [Medium](https://souravsnigdha.medium.com/)
 
 ---
 
-## Core Stack
+## Selected work
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | Go , Java 21 , Python 3.x|
-| **Frameworks** | Spring Boot 3.2, Spring WebFlux, Spring Cloud, FastAPI |
-| **Messaging** | Apache Kafka, Apache Flink, Chronicle Queue |
-| **Databases** | PostgreSQL, MongoDB, Redis, Cassandra, RocksDB |
-| **API** | REST, gRPC/protobuf, WebSocket |
-| **AI / ML** | RAG, LangChain, Llama 3.2, FAISS, HuggingFace |
-| **Cloud/DevOps** | Docker, Kubernetes, AWS (EKS, ECS, Lambda) |
+### [PaymentServiceProvider](https://github.com/Eomaxl/PaymentServiceProvider)
+**The full transaction lifecycle — initiation, authorisation, capture, refund**
+
+A distributed payment platform built the way a real one has to be:
+idempotency keys so a retried request never double-charges, saga
+orchestration so a half-completed payment can always be unwound,
+and Kafka for the async legs that must not block the customer.
+
+The hard part isn't throughput — it's being wrong safely.
+
+`Java` · `Spring Boot` · `Kafka` · `PostgreSQL`
 
 ---
 
-## Featured Projects
+### [RiskPulse](https://github.com/Eomaxl/RiskPulse)
+**Scoring a transaction's risk while it's still in flight**
 
-### [PaymentServiceProvider](https://github.com/Eomaxl/PaymentServiceProvider)
-> High-scale distributed payment platform — Java · Spring Boot · Kafka · PostgreSQL
+Tiered fraud scoring over a streaming transaction feed — a fast
+gradient-boosted model for the common case, escalating to sequence
+and graph models where the signal warrants it. Adverse-media
+sentiment from SentimentPulse feeds in as an optional feature.
 
-Microservices payment platform covering the full transaction lifecycle:
-initiation → authorisation → capture → refund. Built with distributed
-transaction patterns, event-driven Saga orchestration, and idempotent
-service design.
+`Python` · `Kafka` · `XGBoost` · `FastAPI`
 
-**Key design decisions:** Saga pattern for distributed consistency,
-idempotency keys for safe retries, Kafka for async orchestration,
-PostgreSQL with read/write separation.
+---
+
+### [SentimentPulse](https://github.com/Eomaxl/SentimentPulse)
+**Real-time financial news sentiment, end to end**
+
+Ingestion through to a live dashboard: Kafka pipeline, a FinBERT
+model fine-tuned on financial text (0.92 F1, published on
+[Hugging Face](https://huggingface.co/EomaxlSam/finbert-finetuned-sentimentpulse)),
+TimescaleDB for the time series, FastAPI and React on top.
+
+Built during a deliberate break from full-time work, to learn what
+it actually takes to put a model in a pipeline rather than a
+notebook.
+
+`Python` · `Kafka` · `FinBERT` · `TimescaleDB` · `React`
 
 ---
 
 ### [Real-Time-Chat-Platform](https://github.com/Eomaxl/Real-Time-Chat-Platform)
-> Production-grade real-time communication system — Go · WebSocket · Redis · PostgreSQL
+**Messaging, presence and WebRTC signalling**
 
-Full real-time communication backend covering chat, presence, and WebRTC
-signalling. Designed for 50K concurrent WebSocket connections per node with
-sub-200ms message delivery. Includes load tests, Go SDK, and Docker Compose
-for local setup.
+Goroutine-per-connection, Redis pub/sub for cross-node fanout,
+Postgres for durable history. Written to get properly fluent in
+Go's concurrency model.
 
-**Key design decisions:** Goroutine-per-connection model, Redis pub/sub for
-cross-node message fanout, PostgreSQL for durable message history,
-JWT-based multi-tenant auth.
+`Go` · `WebSocket` · `Redis` · `PostgreSQL`
 
 ---
 
-### [rag-gtm-system](https://github.com/Eomaxl/rag-gtm-system)
-> Production-ready RAG system for sales GTM workflows — Python · LangChain · Llama 3.2 · FAISS
+## Stack
 
-AI-powered backend system using Retrieval-Augmented Generation to give sales
-teams contextual, LLM-powered summaries of account history and deal signals.
-Inspired by the AI Insights feature I built at Confluent.
-
-**Key design decisions:** FAISS for fast vector similarity search, LangChain
-orchestration pipeline, FastAPI for REST interface, fully containerised with
-Docker.
-
----
-
-### [BankingApplication](https://github.com/Eomaxl/BankingApplication)
-> High-throughput banking backend — Java 17 · Spring Boot · AWS
-
-Core banking application with high-throughput, low-latency transaction
-processing. Deployed on AWS with containerised microservices.
-
----
-
-## Career Highlights
-```
-Confluent         Senior SWE & Tech Lead     Sep 2024 – Jun 2025
-Cisco Systems     Software Engineer          May 2021 – Aug 2024
-DBS Bank          App Developer Specialist   May 2020 – May 2021
-Atos-Synel        Associate Consultant       Oct 2018 – May 2020
-Atos              System Engineer            May 2017 – Aug 2018
-IBM India         Java Web App Developer     Jul 2014 – May 2017
-```
+| | |
+|---|---|
+| **Languages** | Go, Java, Python |
+| **Messaging** | Kafka, Flink, Temporal |
+| **Data** | PostgreSQL, Cassandra, Redis, TimescaleDB, pgvector |
+| **Infra** | Kubernetes, Docker, AWS, gRPC, Envoy |
+| **ML** | PyTorch, HuggingFace, XGBoost, RAG, LangChain |
 
 ---
 
 ## Writing
 
-I write about distributed systems, backend architecture, and Java/Kafka
-engineering on Medium.
-→ [souravsnigdha.medium.com](https://souravsnigdha.medium.com/)
-
----
-
-*Open to Senior Backend Engineer and Staff Engineer roles — Bengaluru,
-Remote India, or Remote Global.*
+I write about distributed systems, payments architecture and
+applied ML on [Medium](https://souravsnigdha.medium.com/).
